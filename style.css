@@ -8,5 +8,5 @@ header{
     border-bottom: solid 2px rgb(0, 0, 0);/*borda inferior solida de px preta*/
     padding: 20px;/*espaçamento interno*/
     font-size: 32PX;/*tamanho da fonte*/
-
+   color: rgb(145, 145, 145);/*cor da fonte*/
 }
